@@ -1,2 +1,2 @@
 # latihan
-dump latihan
+isinya cuma latihan
